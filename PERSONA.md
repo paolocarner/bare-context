@@ -79,10 +79,10 @@ Use these when writing LinkedIn content, proposals, outreach, or tool copy.
 **Trigger:** "We lost another deal because we couldn't answer their security questions."  
 **Message:** BARE turns your security programme into a sales asset. Certification and documentation that shortens sales cycles and unlocks enterprise accounts.
 
-### CFO
-**Pain:** Unplanned financial liability. Balance sheet surprises from incidents or compliance fines.  
-**Trigger:** Cyber insurance renewal. Regulatory audit. Board asking about budget justification.  
-**Message:** BARE quantifies cyber risk in financial terms (using FAIR methodology) so security investment decisions look like every other capital allocation decision.
+### CFO / Finance Director *(influencer — typically supports the CEO on security budget decisions; does not own the line directly)*
+**Pain:** Can't evaluate whether cybersecurity spend is proportionate to the risk carried, and can't give the CEO, board, or auditors a defensible answer when asked. Heat maps and red/amber/green ratings don't translate into the financial language the rest of the business runs on.  
+**Trigger:** Cyber insurance renewal or premium increase. Board asking about security spend justification. Audit committee reporting. A specific budget request from the security function the CFO can't independently evaluate.  
+**Message:** The heat maps your security team uses can't answer what matters most — are we spending the right amount for the risk we carry? There are no silver bullets for quantifying risk, but FAIR is a much more defensible way to stand behind the euros spent on security. It shows your risk exposure in financial terms, and how much it drops when you invest in the measures on the table — the same expected-loss logic your insurer already uses.
 
 ---
 
