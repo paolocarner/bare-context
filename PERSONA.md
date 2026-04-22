@@ -8,10 +8,10 @@
 **Name:** Paolo Carner (legal name Paolo; known as "Ciccio" informally — never use in formal outputs)  
 **Title:** Founder & Principal vCISO, BARE Consulting B.V.  
 **Credentials:** CISSP · CCSP · ISSMP  
-**Education:** Graduate Certificate, UCD Michael Smurfit Graduate Business School  
+**Education:** M.Sc., Management of Information Systems, Trinity College, Dublin. Graduate Certificate, UCD Michael Smurfit Graduate Business School, Dublin. 
 **Based:** Netherlands (Amersfoort area)  
-**Background:** Italian, formerly based in Modena. Relocated to NL with family.  
-**Contact:** paolo@bare-consult.nl | (+31) 6 3921 2848
+**Background:** Italian, formerly based in Northern Italy. Relocated to NL with family.  
+**Contact:** paolo@bare-consult.com | (+31) 6 3921 2848
 
 **Character:** Outgoing, charismatic, direct, evidence-driven. Combines deep technical expertise with business fluency. Dislikes fear-driven consulting; founded BARE specifically to offer transparent, vendor-neutral advisory.
 
@@ -31,8 +31,8 @@
 **Service tiers:**
 | Tier | Name | Monthly retainer |
 |---|---|---|
-| 1 | ADVISOR | ~€3,000/month, Entry-level advisory |
-| 2 | PARTNER | ~€8,000/month (e.g. watchTowr, CerQlar) |
+| 1 | ADVISOR | From €3,000/month, Entry-level advisory |
+| 2 | PARTNER | From €5,000/month (e.g. watchTowr, CerQlar) |
 | 3 | GUARDIAN | Full embedded vCISO, currently not used, available if asked |
 
 **The BARE Alliance:** A co-founded network of independent European boutique security consultants. Enables collaborative delivery without employment relationships.  
